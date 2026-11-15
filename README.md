@@ -18,4 +18,4 @@ Java · SQL / MySQL · JPA / EclipseLink / Hibernate · JDBC · Kotlin · Jetpac
 | [Android-Developer-Codelabs](https://github.com/ivanec96/Android-Developer-Codelabs) | Seis apps Android de los codelabs oficiales | Kotlin, Compose |
 
 ## Contacto
-[linkedin.com/in/ivan-escorza-b50b0a2209] · ivan.escorza.96@gmail.com
+[www.linkedin.com/in/ivanescorza96] · ivan.escorza.96@gmail.com
